@@ -1,4 +1,4 @@
-# fullstack-finder
-<h1>A Job hunting website created using React Hooks &amp; the GitHub Jobs API</h1>
+
+<h2>FullStack Finder: A Job hunting website created using React Hooks &amp; the GitHub Jobs API</h2>
 
 <img src='fullstackfinder.jpg' height=auto width=auto />
